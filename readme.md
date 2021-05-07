@@ -1,6 +1,6 @@
 # Desmog
 https://tlcperformance.com/products/3fe-desmog-kit
-
+https://www.ih8mud.com/tech/pdf/3FE-Desmog_Guide.pdf
 https://forum.ih8mud.com/threads/fj62-desmog-kit.1243736/post-13705185
 ```
 Dorman 090-099 plug m26x1.5 is the plug for the exhaust manifold. need 1
