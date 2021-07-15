@@ -4,6 +4,8 @@ https://tlcperformance.com/products/3fe-desmog-kit
 https://www.ih8mud.com/tech/pdf/3FE-Desmog_Guide.pdf
 
 https://forum.ih8mud.com/threads/fj62-desmog-kit.1243736/post-13705185
+
+https://forum.ih8mud.com/threads/egr-desmog-88-fj62.469965/
 ```
 Dorman 090-099 plug m26x1.5 is the plug for the exhaust manifold. need 1
 Toyota 90340-14001 plug for the air rail. need 4
